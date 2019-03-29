@@ -1,5 +1,7 @@
 ﻿# Базовый шаблон проекта для stm32f746g-disco (qbs)
 
+see (http://www.mcu.by/jedi-way-episode-1/)
+
 Установите следующие пакеты:
 * libtool
 * eclipse-cdt-autotools
